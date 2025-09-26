@@ -39,7 +39,7 @@ hospital-mongodb-java/
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/<your-username>/hospital-mongodb-java.git
+git clone https://github.com/JalaU-Labs/hospital-mongodb-java.git
 cd hospital-mongodb-java
 ```
 
